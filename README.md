@@ -1,0 +1,3 @@
+freamework 
+pip install django 
+pip install django-jazzmin
